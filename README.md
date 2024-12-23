@@ -2,7 +2,7 @@
 
 A Python program for parsing Admin-AJAX log files that are generated as part of a troubleshooting process. You can read more about enabling the Admin-AJAX log from WP Engine's [Support guide](https://wpengine.com/support/admin-ajax/#Admin_AJAX_Log).
 
-Before running this program, you'll need to download the file locally.
+Before running this program, you'll need to download the AJAX log file locally.
 
 ## Installation
 
